@@ -69,7 +69,7 @@ MySQL и тд)
 4. Установите зависимости в виртуальное окружение.
 
 ```
-   - pip install -r requirements. txt
+   - pip install -r requirement. txt
 ```
 ## Запуск проекта
 #### Если вы используете Linux, то следует писать **./manage.py**, если Windows - **python manage.py**
