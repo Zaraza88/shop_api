@@ -58,7 +58,7 @@ MySQL и тд)
 ## Установка
 
 1. Скачать проект
-   - git clone https://github.com/Zaraza88/blog_api.git
+   - git clone https://github.com/Zaraza88/shop_api.git
 2. Добавить виртуальное окружение
    - python3 -m venv venv  (или python -m venv venv)
 3. Активировать виртуальное окружение
